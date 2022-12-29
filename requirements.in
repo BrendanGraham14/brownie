@@ -27,5 +27,5 @@ semantic-version<3
 tqdm<5
 vvm>=0.1.0,<1
 vyper>=0.2.11,<1
-web3>=5.22.0,<6
+git+https://github.com/BrendanGraham14/web3.py.git@v5-upgrade-websockets
 wrapt>=1.12.1,<2
